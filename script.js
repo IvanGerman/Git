@@ -1,1 +1,1 @@
-document.body.innerHTML = 'Hello from Javascript'
+console.log('Hello from Javascript');
